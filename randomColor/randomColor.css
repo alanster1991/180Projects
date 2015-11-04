@@ -1,0 +1,12 @@
+#button {
+  position: absolute;
+  font-size: 35px;
+  left: 50%;
+  top: 30%;
+  background-color: Red;
+  width: 150px;
+  height: 100px;
+}
+body {
+  background-color: black;
+}
